@@ -49,7 +49,7 @@ jobs:
           key: gradle-{{ checksum "~/reactor/android/build.gradle" }}
 
       - store_artifacts:
-          path: ~/reactor/android/app/build/outputs/apk/debug/app-debug.apk
+          path: ~/reactor/android/app/build/outputs/apk/app-debug.apk
           destination: debug.apk
 
 workflows:
