@@ -46,7 +46,7 @@ export function restoreSession() {
           dispatch(restoreFailed());
         }
       })
-      .catch(error => dispatch(restoreFailed));
+      .catch(error => dispatch(restoreFailed()));
   };
 } // restoreSession
 
