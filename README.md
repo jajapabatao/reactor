@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/Jerameel/Reactor/tree/master.svg?style=svg)](https://circleci.com/gh/Jerameel/Reactor/tree/master)
 
-A general purpose react native template with advanced authentication, integrated with **redux** and **react-navigation**.
+A general purpose minimalist react native template with advanced authentication, integrated with **redux** and **react-navigation**.
 
 <p float="left">
   <img src="./screenshots/01.png" width="300" />
